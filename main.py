@@ -1,6 +1,6 @@
 import openai
 
-client = openai.OpenAI(api_key="") #Add your openAI api key here
+client = openai.OpenAI(api_key=" ") #Add your openAI api key here
 
 def chat_with_gpt(prompt):
     response = client.chat.completions.create(

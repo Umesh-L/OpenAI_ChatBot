@@ -4,7 +4,7 @@
 
   ### 🧑‍💻 Technology Stack : <br/>
 -- Python : Used as main programming language. <br/>
--- OpenAI API : For fetching data when user gives prompts. <br/>
+-- OpenAI API key: For fetching data when user gives prompts. <br/>
 <hr/>
   
   ### 👾 To run the project in you local device : <br/>
